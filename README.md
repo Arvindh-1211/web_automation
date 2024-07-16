@@ -77,12 +77,8 @@ This function takes an XPath and some data to input as arguments and writes the 
 
 2. Download the ChromeDriver that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in a directory that is included in your system's PATH.
 
-3. Create a CSV file named `Gen_AI.csv` with the required data.
-
-4. Run the script to automate the form-filling process. The Chrome browser will stay open after execution, allowing you to review the final state.
+3. Run the script to automate the form-filling process. The Chrome browser will stay open after execution, allowing you to review the final state.
 
 ```bash
 python your_script_name.py
 ```
-
-Replace `your_script_name.py` with the name of your Python script file.
