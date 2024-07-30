@@ -14,10 +14,10 @@ def write_field(xpath, field_data):
     element.send_keys(field_data)
 
 
-mail_id = "arvindh.it23@bitsathy.ac.in"
-password = "Arvindh@1211"
-name = "ARVINDH S"
-register_number = "7376232IT114"
+mail_id = "example@gmail.com"
+password = "password"
+name = "NAME"
+register_number = "Reg_no"
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
