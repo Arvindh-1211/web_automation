@@ -75,7 +75,7 @@ This function takes an XPath and some data to input as arguments and writes the 
    pip install selenium
    ```
 
-2. Download the ChromeDriver that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in a directory that is included in your system's PATH.
+2. Download the ChromeDriver that matches your version of Chrome and place it in a directory that is included in your system's PATH.
 
 3. Run the script to automate the form-filling process. The Chrome browser will stay open after execution, allowing you to review the final state.
 
